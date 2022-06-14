@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/srdrkbs/CICDDemo/issues"
   },
+  "publishConfig": {
+    "@srdrkbs:registry": "https://npm.pkg.github.com"
+  },
   "homepage": "https://github.com/srdrkbs/CICDDemo#readme"
 }
