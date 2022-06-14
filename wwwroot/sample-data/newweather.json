@@ -24,4 +24,14 @@
     "temperatureC": -2,
     "summary": "Normal"
   }
+  {
+    "date": "2019-05-10",
+    "temperatureC": 25,
+    "summary": "Hot"
+  }
+  {
+    "date": "2019-06-10",
+    "temperatureC": 35,
+    "summary": "Sunny"
+  }
 ]
